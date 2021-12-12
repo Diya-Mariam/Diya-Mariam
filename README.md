@@ -32,7 +32,7 @@ of engineering and technology, Thiruvananthapuram.<br>
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
     </a>
 
-    <a href="mailto:diyamariambiju25@gmail.com">
+    <a href="diyamariambiju25@gmail.com">
         <img src="https://img.shields.io/badge/gmail-%231DA1F2.svg?&style=flat-square&logo=gmail&logoColor=white">
     </a>
 
