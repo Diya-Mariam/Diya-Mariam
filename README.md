@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there 👋 </h1>
+<h1 align="center"> Hi there 👋 Welcome to my GitHub Profile !! </h1>
 
 <!--
 **Diya-Mariam/Diya-Mariam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 <br>
-I am <strong> Diya Mariam Biju</strong>, a second year student pursuing BTech in Computer Science at Mar Baselios college
+🙌 I am <strong> Diya Mariam Biju</strong>, a second year student pursuing BTech in Computer Science at Mar Baselios college
 of engineering and technology, Thiruvananthapuram.
 
-- 🔭 I'm currently doing projects on Web Development (Front End)
-- 🌱 I’m currently learning REACT
+- 🔭 I'm currently doing projects on `Web Development` (Front End)
+- 🌱 I’m currently learning `REACT`
 - 📫 How to reach me: diyamariambiju25@gmail.com
 
