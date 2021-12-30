@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <br/>
-🙌 I am <strong> Diya Mariam Biju</strong>, a second year student pursuing BTech in Computer Science at Mar Baselios college
-of engineering and technology, Thiruvananthapuram.
+<p>🙌 I am <strong> Diya Mariam Biju</strong>, a second year student pursuing BTech in Computer Science at Mar Baselios college
+of engineering and technology, Thiruvananthapuram.</p>
 <br/>
 
 
