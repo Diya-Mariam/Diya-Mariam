@@ -40,12 +40,6 @@ of engineering and technology, Thiruvananthapuram.</p>
     </a>
     
 
-    
-    
-    
-    <a href="https://www.instagram.com/r.a.i.n.bow_sweety/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white">
-    </a>
    
    
 </p>
