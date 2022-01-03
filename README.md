@@ -39,11 +39,9 @@ of engineering and technology, Thiruvananthapuram.</p>
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
     </a>
     
-    <br /><br />
+
     
-    <a href="mailto:diyamariambiju25@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-%231DA1F2.svg?&style=flat-square&logo=gmail&logoColor=white">
-    </a>
+    
     
     <a href="https://www.instagram.com/r.a.i.n.bow_sweety/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white">
