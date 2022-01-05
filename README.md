@@ -23,30 +23,28 @@ of engineering and technology, Thiruvananthapuram.</p>
 
 - 🔭 I'm currently doing projects on `Front End Web Development` 
 - 🌱 Currently learning `REACT`
-- 📫 How to reach me: diyamariambiju25@gmail.com <br/>
+- 📫 How to reach me: [Mail](mailto:diyamariambiju25@gmail.com) <br/>
 
 
 <br/>
 <br/>
 
 
-<h1 align="center">
-    ✨ Connect with me ✨ </h1>
+<h1 align="center">✨ Connect with me ✨ </h1>
 
 <p align="center">
-    <br />
-    <a href="https://www.linkedin.com/in/diya-mariam-biju-b82b63205/">
-        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
-    </a>
-    
-    <br /><br />
-    
+<a href="https://www.linkedin.com/in/diya-mariam-biju-b82b63205/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
+</a>
+</p>
+<p align="center">
     <a href="mailto:diyamariambiju25@gmail.com">
         <img src="https://img.shields.io/badge/gmail-%231DA1F2.svg?&style=flat-square&logo=gmail&logoColor=white">
     </a>
-    
+</p> 
+<p align="center">
     <a href="https://www.instagram.com/r.a.i.n.bow_sweety/">
         <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white">
     </a>
-   
+
 </p>
