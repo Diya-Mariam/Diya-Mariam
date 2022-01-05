@@ -25,11 +25,6 @@ of engineering and technology, Thiruvananthapuram.</p>
 - 🌱 Currently learning `React`
 - 📫 How to reach me: [Mail](mailto:diyamariambiju25@gmail.com) <br/>
 
-
-<br/>
-<br/>
-
-
 <h1 align="center">✨ Connect with me ✨ </h1>
 
 <p align="center">
