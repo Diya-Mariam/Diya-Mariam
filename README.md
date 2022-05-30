@@ -5,7 +5,7 @@ of engineering and technology, Thiruvananthapuram.</p>
 <br/>
 
 
-- 🔭 I'm currently doing projects on `Front End Web Development` 
+- 🔭 Doing projects on `Front End Web Development` 
 - 🌱 Currently learning back end development `MERN stack`
 - 📫 How to reach me: [Mail](mailto:diyamariambiju25@gmail.com) <br/>
 
