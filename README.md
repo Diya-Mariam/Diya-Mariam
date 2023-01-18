@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋 Welcome to my GitHub Profile !! </h1><br/>
 
-<p>🙌 I am <strong> Diya Mariam Biju</strong>, a third year student pursuing BTech in Computer Science at Mar Baselios College
+<p>🙌 I am <strong> Diya Mariam Biju</strong>, a final year student pursuing BTech in Computer Science at Mar Baselios College
 of Engineering and Technology, Thiruvananthapuram.</p>
 <br/>
 
