@@ -8,7 +8,7 @@ of Engineering and Technology, Thiruvananthapuram.</p>
 - 🔭 Doing projects on `Front End Web Development` 
 - 🌱 Currently learning back end development `MERN stack`
 - 🤝 Skilled in `React`, `Next.js` and `Javascript`
-- 📄 Know about my experiences: https://drive.google.com/file/d/17Q4V9rQF_hNRrzP881Jt1CRsWpY-18C3/view?usp=sharing
+- 📄 Know about my experiences: https://www.linkedin.com/in/diya-mariam-biju/
 - 📫 How to reach me: [Mail](mailto:diyamariambiju25@gmail.com) <br/><br/>
 
 <h1 align="center">Languages and Tools:</h1><br/><br/>
