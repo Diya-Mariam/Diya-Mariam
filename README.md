@@ -1,13 +1,12 @@
 <h1 align="center"> Hi there 👋 Welcome to my GitHub Profile !! </h1><br/>
 
-<p>🙌 I am <strong> Diya Mariam Biju</strong>, a final year student pursuing BTech in Computer Science at Mar Baselios College
-of Engineering and Technology, Thiruvananthapuram.</p>
+<p>🙌 I am <strong> Diya Mariam Biju</strong>, a Software Engineer Trainee at Aurionpro, a global software solutions company. I am an enthusiastic person who loves to take up challenges and learn new skills. I am a software developer and a tech enthusiast with a keen interest in Web development.</p>
 <br/>
 
 
 - 🔭 Doing projects on `Front End Web Development` 
 - 🌱 Currently learning back end development `MERN stack`
-- 🤝 Skilled in `React`, `Next.js` and `Javascript`
+- 🤝 Skilled in `React`, `Next.js` , `Java` and `Javascript`
 - 📄 Know about my experiences: https://www.linkedin.com/in/diya-mariam-biju/
 - 📫 How to reach me: [Mail](mailto:diyamariambiju25@gmail.com) <br/><br/>
 
